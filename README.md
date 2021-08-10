@@ -15,11 +15,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Linkedin Badge](https://img.shields.io/badge/-JonasAndrade-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jonasandrade/)](https://www.linkedin.com/in/jonasandrade/)
+### Social
+
+[![Linkedin](https://img.shields.io/badge/-JonasAndrade-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jonasandrade/)](https://www.linkedin.com/in/jonasandrade/)
 
 ### Languages
 
-![C#](https://img.shields.io/badge/-CSharp-000?&logo=CSharp)
+![C#](https://img.shields.io/badge/C%23-000?&logo=CSharp)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)
 ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
@@ -34,6 +36,11 @@ Here are some ideas to get you started:
 ![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
 ![React](https://img.shields.io/badge/-React-000?&logo=React)
 ![Redis](https://img.shields.io/badge/-Redis-000?&logo=Redis)
+![Kafka](https://img.shields.io/badge/-Kafka-000?&logo=Kafka)
+![Express.js](https://img.shields.io/badge/-Express.js-000?&logo=Express.js)
+![Laravel](https://img.shields.io/badge/-Laravel-000?&logo=laravel)
+![Mongodb](https://img.shields.io/badge/-Mongodb-000?&logo=mongodb)
+![Mysql](https://img.shields.io/badge/-MySQL-000?&logo=mysql)
 
 ### Github Stats
 
