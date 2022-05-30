@@ -18,6 +18,7 @@ Here are some ideas to get you started:
 ### Social
 
 [![Linkedin](https://img.shields.io/badge/-JonasAndrade-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jonasandrade/)](https://www.linkedin.com/in/jonasandrade/)
+[![Gitlab](https://img.shields.io/badge/-JonasAndrade12-orange?style=flat-square&logo=Gitlab&logoColor=white&link=https://gitlab.com/JonasAndrade12)](https://gitlab.com/JonasAndrade12)
 
 ### Languages
 
