@@ -17,8 +17,9 @@ Here are some ideas to get you started:
 
 ### Social
 
-[![Linkedin](https://img.shields.io/badge/-JonasAndrade-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jonasandrade/)](https://www.linkedin.com/in/jonasandrade/)
-[![Gitlab](https://img.shields.io/badge/-JonasAndrade12-orange?style=flat-square&logo=Gitlab&logoColor=white&link=https://gitlab.com/JonasAndrade12)](https://gitlab.com/JonasAndrade12)
+[![Linkedin](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jonasandrade/)](https://www.linkedin.com/in/jonasandrade/)
+[![Gitlab](https://img.shields.io/badge/-Gitlab-orange?style=flat-square&logo=Gitlab&logoColor=white&link=https://gitlab.com/JonasAndrade12)](https://gitlab.com/JonasAndrade12)
+[![LeetCode](https://img.shields.io/badge/-LeetCode-black?style=flat-square&logo=Leetcode&logoColor=white&link=https://leetcode.com/JonasAndrade12/)](https://leetcode.com/JonasAndrade12/)
 
 ### Languages
 
