@@ -29,6 +29,7 @@ Here are some ideas to get you started:
 ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
 ![PHP](https://img.shields.io/badge/-PHP-000?&logo=PHP)
 ![GO](https://img.shields.io/badge/-GO-000?&logo=GO)
+![Kotlin](https://img.shields.io/badge/-Kotlin-000?&logo=Kotlin)
 
 ### Technologies
 
@@ -41,7 +42,6 @@ Here are some ideas to get you started:
 ![React](https://img.shields.io/badge/-React-000?&logo=React)
 ![Redis](https://img.shields.io/badge/-Redis-000?&logo=Redis)
 ![Kafka](https://img.shields.io/badge/-Kafka-000?&logo=Kafka)
-![Kotlin](https://img.shields.io/badge/-Kotlin-000?&logo=Kotlin)
 ![Laravel](https://img.shields.io/badge/-Laravel-000?&logo=laravel)
 ![Mongodb](https://img.shields.io/badge/-Mongodb-000?&logo=mongodb)
 ![Mysql](https://img.shields.io/badge/-MySQL-000?&logo=mysql)
